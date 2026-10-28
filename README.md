@@ -29,7 +29,7 @@
 
 ### 📌 Sobre mí & Formación
 
-Soy estudiante avanzado de **Ingeniería en Sistemas Informáticos**, cursando actualmente el 5º año con el **72% de la carrera completado**. Cuento también con formación secundaria orientada a economía, contabilidad básica y gestión organizacional.
+Soy estudiante avanzado de **Ingeniería en Sistemas Informáticos** en la **Universidad Abierta Interamericana**, cursando actualmente el 5º año con el **72% de la carrera completado**. Cuento también con formación secundaria orientada a economía, contabilidad básica y gestión organizacional.
 
 Mi perfil combina una base sólida en resolución lógica de problemas, mantenimiento preventivo de infraestructura y análisis de datos:
 - 🛠️ **Hardware e Infraestructura:** Diagnóstico, ensamblado, mantenimiento y configuración inicial de estaciones de trabajo y sistemas operativos.
