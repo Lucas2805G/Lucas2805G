@@ -11,7 +11,7 @@
     <a href="https://linkedin.com/in/lucasmauriciogomez" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://lucasmauriciogomez.net" target="_blank">
+    <a href="https://lucasmauriciogomez.com" target="_blank">
       <img src="https://img.shields.io/badge/Web_Portfolio-2563EB?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:lucasgomez2805@gmail.com">
