@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hola, soy Lucas Gómez 👋</h1>
+  <h1>Hola, soy Lucas Gomez 👋</h1>
   <p><strong>Estudiante avanzado de Ingeniería en Sistemas Informáticos</strong></p>
   <p>Buenos Aires, Argentina 📍</p>
 
